@@ -4,7 +4,7 @@ setup(
     name="pytest-xdist",
     version='1.13.dev1',
     description='py.test xdist plugin for distributed testing and loop-on-failing modes',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     license='MIT',
     author='holger krekel and contributors',
     author_email='pytest-dev@python.org,holger@merlinux.eu',
